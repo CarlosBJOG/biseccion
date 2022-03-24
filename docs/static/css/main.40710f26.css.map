@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.40710f26.css","mappings":"AAAA,KACI,qBACJ,CAGA,MACI,gBAAiB,CACjB,iBAAkB,CAClB,eAEJ","sources":["styles/styles.css"],"sourcesContent":["body {\r\n    background-color: rgb(255, 255, 255)\r\n}\r\n\r\n\r\n#root {\r\n    margin-left: 20px;\r\n    margin-right: 20px;\r\n    margin-top: 20px;\r\n\r\n}\r\n  \r\n"],"names":[],"sourceRoot":""}
